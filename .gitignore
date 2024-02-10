@@ -9,3 +9,4 @@ models/__pycache__/base_model.cpython-310.pyc
 models/__pycache__/amenity.cpython-310.pyc
 models/__pycache__/__init__.cpython-310.pyc
 web_dynamic/__pycache__/0-hbnb.cpython-310.pyc
+web_dynamic/__pycache__/1-hbnb.cpython-310.pyc
