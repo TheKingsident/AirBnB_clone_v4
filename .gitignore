@@ -10,3 +10,16 @@ models/__pycache__/amenity.cpython-310.pyc
 models/__pycache__/__init__.cpython-310.pyc
 web_dynamic/__pycache__/0-hbnb.cpython-310.pyc
 web_dynamic/__pycache__/1-hbnb.cpython-310.pyc
+api/v1/__pycache__/__init__.cpython-310.pyc
+api/v1/__pycache__/app.cpython-310.pyc
+api/v1/views/__pycache__/__init__.cpython-310.pyc
+api/v1/views/__pycache__/amenities.cpython-310.pyc
+api/v1/views/__pycache__/cities.cpython-310.pyc
+api/v1/views/__pycache__/index.cpython-310.pyc
+api/v1/views/__pycache__/places_amenities.cpython-310.pyc
+api/v1/views/__pycache__/places_reviews.cpython-310.pyc
+api/v1/views/__pycache__/places.cpython-310.pyc
+api/v1/views/__pycache__/states.cpython-310.pyc
+api/v1/views/__pycache__/users.cpython-310.pyc
+web_dynamic/__pycache__/2-hbnb.cpython-310.pyc
+api/__pycache__/__init__.cpython-310.pyc
