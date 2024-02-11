@@ -10,7 +10,6 @@ $(document).ready(function () {
         $('.amenities h4').text(Object.values(checkedAmenities).join(', '));
     });
 
-    // Check API status
     $.get('http://localhost:5001/api/v1/status/', function(data) {
         console.log(data);
         if (data.status === "OK") {
